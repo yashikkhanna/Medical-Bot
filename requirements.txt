@@ -17,7 +17,7 @@ Flask==3.1.0
 Flask-Cors==5.0.0
 frozenlist==1.5.0
 fsspec==2025.2.0
--e git+https://github.com/yashikkhanna/Medical-Bot.git@4ea105c3962fc884ca7a81cdc8a08a88cd006db0#egg=Generative_AI_Project
+-e git+https://github.com/yashikkhanna/Medical-Bot.git@9ca7a9f969a7649d86354b374d6c69b4ab2c3937#egg=Generative_AI_Project
 git-filter-repo==2.45.0
 gitdb==4.0.11
 GitPython==3.1.43
